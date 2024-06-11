@@ -119,6 +119,11 @@ span {
     width: 24rem;
     margin-right: 2rem;
   }
+  .aboutText{
+    font-size: 2rem;
+    font-weight: 600;
+    color: rgb(0, 65, 134);
+  }
 }
 
 
