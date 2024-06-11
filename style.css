@@ -141,3 +141,9 @@ span {
   z-index: 0;
   }
   
+
+  .aboutText{
+    font-size: 4rem;
+    font-weight: 600;
+    color: rgb(0, 65, 134);
+  }
