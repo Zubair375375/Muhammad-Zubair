@@ -130,6 +130,9 @@ span {
   body{
     overflow-x: hidden;
   }
+  .marginTop{
+    margin: 0 -2.5rem;
+  }
 }
 
 
