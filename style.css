@@ -123,6 +123,8 @@ span {
     font-size: 0.5rem;
     font-weight: 600;
     color: rgb(0, 65, 134);
+    }
+    .mtt{
     margin-top: 1.2rem;
   }
 }
