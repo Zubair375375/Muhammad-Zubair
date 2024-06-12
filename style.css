@@ -129,7 +129,7 @@ span {
   }
   body{
     overflow-x: hidden;
-    background-color: red;
+    /* background-color: red; */
   }
   .marginTop{
     margin: 0 -2.5rem;
