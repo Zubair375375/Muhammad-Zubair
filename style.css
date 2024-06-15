@@ -134,6 +134,9 @@ span {
   .marginTop{
     margin: 0 -2.5rem;
   }
+  .fitThisText{
+    width: 20rem;
+  }
 }
 
 
