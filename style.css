@@ -131,7 +131,7 @@ span {
     color: rgb(0, 65, 134);
     }
     .mtt{
-    margin-top: 1.2rem;
+    margin-top: 17rem;
   }
   body{
     overflow-x: hidden;
@@ -143,7 +143,15 @@ span {
   .fitThisText{
     width: 20rem;
   }
+  .spcBt{
+    margin: 0 3rem 0 0;
+  }
 }
+/* @media (min-width: 576px) {
+  .feature {
+    width: calc(20% - 1rem);
+  }
+} */
 
 
 .carousel-item::before {
