@@ -202,3 +202,27 @@ span {
   .gitHov:hover{
     color: white;
   }
+
+
+
+
+
+
+  projects-container {
+    max-width: 80%;
+    margin: 0 auto;
+  }
+  .row.flex-row {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .overflow-auto {
+    overflow-x: auto;
+  }
+  .col {
+    flex: 0 0 auto;
+    width: 26rem;
+  }
+  .card{
+    width: 25rem;
+  }
