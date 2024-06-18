@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;;
 }
-
+body{
+  overflow-x: hidden;
+}
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap");
 * {
@@ -135,7 +137,6 @@ span {
   }
   body{
     overflow-x: hidden;
-    /* background-color: red; */
   }
   .marginTop{
     margin: 0 -2.5rem;
